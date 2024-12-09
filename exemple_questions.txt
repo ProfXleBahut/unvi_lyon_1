@@ -1,0 +1,5 @@
+What is artificial intelligence?
+What are the applications of machine learning?
+How does reinforcement learning work?
+Explain the concept of neural networks.
+What is the capital of France?
